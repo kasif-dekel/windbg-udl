@@ -1,5 +1,7 @@
 # windbg-udl
-windbg udl 0.1 - supports folding and basic highlighting
+Windbg udl 0.1 - supports folding and basic highlighting.
+
+Built in UDL, can be used in software such as Notepad++.
 
 ## alpha
 
